@@ -1,5 +1,5 @@
 The Caddy Website
-=================
+=================.
 
 This is the source of the Caddy website, [caddyserver.com](https://caddyserver.com).
 
